@@ -1,0 +1,91 @@
+{
+	"name": "Neel Alex",
+	"email": "neelalex007@gmail.com",
+	"phone": "+91-9567953022",
+	"image": "assets/images/profile.png",
+	"hackerrank": "hackerrank/neelalex",
+	"linkedin": "linkedin/neelalex",
+  "github": "github/neelalex",
+	"experiences" : [
+		{
+			"title" : "Applications Developer 2",
+			"period": "Jun 2018 - Present",
+			"company": "Oracle",
+			"details": " Add new featured to Oracle fusion which improve the product performance and user experience. Fix critical customer bugs at the best possible time frame. Mentor new joinee's. Agile/SCRUM software development. Tech stack used - Java with Oracle ADF framework, PL/SQL. JUnits and utPLSQL for performing unit test. Also had the opportunity to work with Oracle Business Intelligence Publisher and performed internal R&D work. Part of Oracle interview panel to find new talented developers."
+		},
+		{
+			"title" : "Engineer Product Development",
+			"period": "July 2017 - May 2018",
+			"company": "Envestnet",
+			"details": "Performing Proof of Concept work and research on the UI development using ES6, React/Redux to facilitate microservice architecture."
+		}
+	],
+	"projects": [
+		{
+			"name":"Movies Application",
+			"url": "https://github.com/NeelAlex/Movies-Application",
+			"detail": "This application developed using React-Redux and helps you search for any movie and obtain all relevant information regarding the same, We also incorporated an option to organise our favourite movies and many more."
+		},
+		{
+			"name":"Shopping Cart",
+			"url": "https://github.com/NeelAlex/Shopping-Cart",
+			"detail": "This application helps you plan your daily shopping requirements in accordance with your family budget and dietary requirements. Its developed using React-Redux."
+		},
+		{
+			"name":"Pig Game",
+			"url": "https://github.com/NeelAlex/PigGame",
+			"detail": "Standard Pig Game developed using JavaScript"
+		},
+		{
+			"name":"Personal Website",
+			"url": "http://programmingbuddy.club",
+			"detail": "The website which you are reading is made using React.js "
+		}
+  ],
+	"skills": [
+    {
+      "name": "C / C++",
+      "percent": "95%"
+    },
+		{
+			"name": "Data Structures and Algorithms",
+			"percent": "95%"
+		},
+    {
+      "name": "React-Redux, JavaScript",
+      "percent": "85%"
+    },
+		{
+			"name": "Java and ADF",
+			"percent": "88%"
+		},
+    {
+			"name": "SQL",
+			"percent": "90%"
+		}
+	],
+	"education": [
+		{
+			"degree": "B.tech in Computer Science and Engineering",
+			"university": "Government Engineering College, Thrissur",
+			"period": "2013 - 2017"
+		}
+	],
+	"languages": [
+		{
+			"name":"English",
+			"details": "Professional"
+		},
+    {
+      "name":"Malayalam",
+      "details": "Native"
+    }
+	],
+	"interests": [
+		"Competitive Programming",
+		"Teaching",
+    "Driving",
+		"Swimming",
+    "BasketBall"
+	]
+}
